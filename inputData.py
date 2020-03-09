@@ -8,7 +8,6 @@ import numpy as np   # Linear Algebra
 import pandas as pd  # Data processing/dataframes
 import seaborn as sb # Any results written to currDir are saved as output.
 import matplotlib.pyplot as plt
-#matplotlib inline
 import os
 
 # Input data files available in the "./input/" directory.
