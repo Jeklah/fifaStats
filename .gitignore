@@ -178,12 +178,14 @@ BundleArtifacts/
 
 # Others
 ClientBin/
+[Ll]ib/
 [Ss]tyle[Cc]op.*
 ~$*
 *~
 *.dbmdl
 *.dbproj.schemaview
 *.pfx
+*.pyc
 *.publishsettings
 node_modules/
 orleans.codegen.cs
